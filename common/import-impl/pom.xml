@@ -11,7 +11,7 @@
   <artifactId>import-impl</artifactId>
   <packaging>jar</packaging>
   <properties>
-    <deploy.target />
+    <deploy.target/>
   </properties>
   <dependencies>
     <dependency>
@@ -25,7 +25,7 @@
     <dependency>
       <groupId>jaxen</groupId>
       <artifactId>jaxen</artifactId>
-      <version>1.0-FCS-full</version>
+      <version>1.2.0</version>
     </dependency>
     <dependency>
       <groupId>saxpath</groupId>
